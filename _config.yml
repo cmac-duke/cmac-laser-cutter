@@ -2,7 +2,7 @@
 # Site
 
 title: CMAC Laser Cutter
-url: "https://long-pig.cloudvent.net"
+url: "http://yourdomain.com"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
@@ -17,7 +17,7 @@ author:
 social:
   name: CMAC
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+    - http://yourdomain.com
 
 # -----
 # Build
@@ -65,8 +65,7 @@ defaults:
       _comments:
         type: Marks the impact of this release
 
-# -----------
-# CloudCannon
+
 
 types:
   - minor
