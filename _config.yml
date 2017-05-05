@@ -25,9 +25,6 @@ social:
 permalink: pretty
 
 gems:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
 
 exclude:
   - Gemfile
