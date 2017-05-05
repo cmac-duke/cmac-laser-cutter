@@ -19,6 +19,9 @@ social:
   links:
     - http://yourdomain.com
 
+kramdown:
+  input: GFM
+
 # -----
 # Build
 
