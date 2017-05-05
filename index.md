@@ -2,4 +2,5 @@
 title: CMAC Laser Cutter
 ---
 
-![](//localhost:4000/images/fab.jpg)
+![](//matthewbaykenney.github.io/cmac-laser-cutter/images/fab.jpg)
+

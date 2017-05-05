@@ -4,4 +4,4 @@ category: Preparing Files
 order: 2
 ---
 
-![](//localhost:4000/images/rhino.jpg/400x400)
+![](//matthewbaykenney.github.io/cmac-laser-cutter/images/rhino.jpg/400x400)

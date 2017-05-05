@@ -4,7 +4,7 @@ category: General Use
 order: 2
 ---
 
-![](//localhost:4000/images/controls.jpg/400x400)
+![](//matthewbaykenney.github.io/cmac-laser-cutter/images/controls.jpg/400x400)
 
 Laser Cutter - Turning on:
 
