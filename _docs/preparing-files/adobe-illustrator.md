@@ -1,7 +1,7 @@
 ---
-title: Cutting from sAdobe Illustrator
+title: Cutting from Adobe Illustrator
 category: Preparing Files
 order: 1
 ---
 
-![](//placehold.it/800x600)
+![](//localhost:4000/images/ai.jpg/400x400)

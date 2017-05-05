@@ -4,4 +4,4 @@ category: Preparing Files
 order: 2
 ---
 
-![](//placehold.it/800x600)
+![](//localhost:4000/images/rhino.jpg/400x400)
