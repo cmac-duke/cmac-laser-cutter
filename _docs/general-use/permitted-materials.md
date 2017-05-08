@@ -4,7 +4,7 @@ category: General Use
 order: 1
 ---
 
-![](//matthewbaykenney.github.io/cmac-laser-cutter/images/cardboard.jpg)
+<img src="{{ "/images/cardboard.jpg" | prepend: site.baseurl }}{{ img }}" style="width: 320px;" alt=""><br>
 
 Laser Cutter Materials:<br>
 1/8" MDF<br>

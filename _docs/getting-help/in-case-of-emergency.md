@@ -4,7 +4,7 @@ category: Getting Help
 order: 1
 ---
 
-![](//matthewbaykenney.github.io/cmac-laser-cutter/images/stop.jpg)
+<img src="{{ "/images/stop.jpg" | prepend: site.baseurl }}{{ img }}" style="width: 320px;" alt=""><br>
 
 Emergency Procedures
 

@@ -4,4 +4,4 @@ category: Preparing Files
 order: 2
 ---
 
-![](//matthewbaykenney.github.io/cmac-laser-cutter/images/rhino.jpg)
+<img src="{{ "/images/rhino.jpg" | prepend: site.baseurl }}{{ img }}" style="width: 420px;" alt=""><br>

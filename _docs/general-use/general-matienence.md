@@ -4,7 +4,7 @@ category: General Use
 order: 5
 ---
 
-![](//matthewbaykenney.github.io/cmac-laser-cutter/images/bed.jpg)
+<img src="{{ "/images/bed.jpg" | prepend: site.baseurl }}{{ img }}" style="width: 320px;" alt=""><br>
 Laser Cutter - Maintenance:
 
 Look up cleaning section in manual

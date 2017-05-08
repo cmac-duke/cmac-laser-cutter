@@ -4,4 +4,4 @@ category: Preparing Files
 order: 1
 ---
 
-![](//matthewbaykenney.github.io/cmac-laser-cutter/images/ai.jpg)
+<img src="{{ "/images/ai.jpg" | prepend: site.baseurl }}{{ img }}" style="width: 420px;" alt=""><br>

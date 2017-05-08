@@ -4,7 +4,7 @@ category: General Use
 order: 2
 ---
 
-![](//matthewbaykenney.github.io/cmac-laser-cutter/images/controls.jpg)
+<img src="{{ "/images/controls.jpg" | prepend: site.baseurl }}{{ img }}" style="width: 320px;" alt=""><br>
 
 Laser Cutter - Turning on:
 
