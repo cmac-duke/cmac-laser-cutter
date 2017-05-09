@@ -6,27 +6,29 @@ order: 1
 
 <img src="{{ "/images/cardboard.jpg" | prepend: site.baseurl }}{{ img }}" style="width: 320px;" alt=""><br>
 
-Laser Cutter Materials:<br>
-1/8" MDF<br>
-1/8" Masonite<br>
-1/8" Baltic Birch Plywood
+## Laser Cutter Materials:
 
-Cardboard:<br>
-1/16"<br>
-1/8"<br>
-5/32"<br>
+### MDF: ####
+- 1/8" MDF
+- 1/8" Masonite
+- 1/8" Baltic Birch Plywood
 
-Taskboard:<br>
-1/32"<br>
-1/16"<br>
-1/8"<br>
+### Cardboard: ####
+- 1/16"
+- 1/8"
+- 5/32"
 
-Chipboard:<br>
-1Ply<br>
-2Ply<br>
-3Ply<br>
+### Taskboard: ####
+- 1/32"
+- 1/16"
+- 1/8"
 
-Acrylic Plexiglass:<br>
-Clear or Color 0.06"<br>
-Clear or Color 0.125"<br>
-Clear or Color 0.22"<br>
+### Chipboard: ####
+- 1Ply
+- 2Ply
+- 3Ply
+
+### Acrylic Plexiglass: ####
+- Clear or Color 0.06"
+- Clear or Color 0.125"
+- Clear or Color 0.22"

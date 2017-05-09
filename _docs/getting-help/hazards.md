@@ -5,7 +5,7 @@ order: 2
 ---
 
 Hazards: <br>
-The X-660 and VLS660 laser cutters are designed specifically to allow safe laser processing in office, lab or workshop environments. The safety enclosure allows for operation without additional personal protection equipment, but users must still be aware of the potential hazards. <br>
+The laser cutter is designed specifically to allow safe laser processing in office, lab or workshop environments. The safety enclosure allows for operation without additional personal protection equipment, but users must still be aware of the potential hazards. <br>
 
 Optical: <br>
 Exposure to the laser beam may cause physical burns and can cause severe eye
